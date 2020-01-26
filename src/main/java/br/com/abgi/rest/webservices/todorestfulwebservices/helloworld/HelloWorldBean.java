@@ -1,4 +1,4 @@
-package br.com.abgi.rest.webservices.todorestfulwebservices;
+package br.com.abgi.rest.webservices.todorestfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
